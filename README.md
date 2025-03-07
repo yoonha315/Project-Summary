@@ -1,1 +1,0 @@
-# WIDS-SAP-case-comp
